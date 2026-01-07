@@ -1,0 +1,9 @@
+core\data\cell\CellData.class
+core\snapshot\CellSnapshot.class
+core\data\chunk\ChunkData.class
+core\world\WorldData.class
+core\id\ChunkId.class
+core\data\clan\ClanData.class
+core\id\CellId.class
+core\snapshot\WorldSnapshot.class
+core\id\ClanId.class
